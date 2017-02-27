@@ -21,7 +21,7 @@ These corners are found out using CV2function findcornere and are stored in IMgp
 Results of camera calibration are as follows.
 
 ![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/result_cal/test_undist1.jpg)
-![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/result_cal/test_undist2.jpg)
+![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/result_cal/test_undist5.jpg)
 
 
 
