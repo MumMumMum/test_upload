@@ -59,7 +59,7 @@ We use polyfit which fits the line and returned leftfit and rightfit are coeffei
 Window search method is used once and then once a line is located next iamge frame lines are serched in neighboring area of previous frame.
 find_lanes_window()and search_lines_ROI() are helper function for same.
 The result by using search_window method is as follows:
-![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/histogram.png
+![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/histogram.png)
 
 5)Then we need to calculate radius of curvature to see that we are doing well in lane detection and there are no abusrd measuremnts happenig. Also the caluction of offset of car from center lets us know where is
 car placed on lane.
