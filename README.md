@@ -87,4 +87,8 @@ Discussion
 Also the thing mentioned of lane class which if used could help me reset my refrence line data .
 Smoothing over frames also is not done .
 But i was very happy with widget tuner with which my thresholding was good and there was no hitch in detecting lanes.
+https://github.com/MumMumMum/test_upload.git heres a uploaded repo.
+the video detection just passes the  "project_video.mp4" challenge.
+By tuning thresholding we can delete the shadows in "challenge_video.mp4" to improve results.
+Also by adding class lane improvement in smoothing can be achieved and reseting be done more technically correctly.
 
