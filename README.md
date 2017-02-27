@@ -76,7 +76,7 @@ Pipeline (video)
 
 Link to video:
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](https://github.com/MumMumMum/test_upload/blob/master/output_video/output_lane_detect1.mp4)
 
 ---
 
