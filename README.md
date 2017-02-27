@@ -20,7 +20,8 @@ Camera Calibration:
 These corners are found out using CV2function findcornere and are stored in IMgpoint, the relative object points in 3 dimension are formed and used in CV2.calibratecamera.This function resturns calibration matrix which is used further to undistort other images.
 Results of camera calibration are as follows.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/result_cal/test_undist1.jpg)
+![alt tag](https://github.com/MumMumMum/test_upload/blob/master/output_images/result_cal/test_undist2.jpg)
 
 
 
